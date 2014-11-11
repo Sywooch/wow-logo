@@ -9,7 +9,7 @@ Client proved fraudster, he created the paymant on freelancer.com and then accou
 * composer global require "fxp/composer-asset-plugin:1.0.0-beta3"
 * composer update
 
-## Sourses:
+## Sources:
 
 * Database dump - db/creativelogo.sql
 * Designs (all psd and jpg) - design/CreativeLogo.rar
