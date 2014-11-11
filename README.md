@@ -1,8 +1,8 @@
 # Sources from http://wow-logo.com - Yii2
 
-Client proved fraudster, he created the paymant on freelancer.com and then account was closed with $2520 payment, wich was refused to client, the site was already on hosting and client is gone.
+Client proved fraudster, he created the payment on freelancer.com and then account was closed with $2520 payment, which was refused to client, the site was already on hosting and client has gone.
 
-## Insatall via composer:
+## Install via composer:
 
 * Download composer to project dir or install it globally
 * composer install
