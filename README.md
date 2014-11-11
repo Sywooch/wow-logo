@@ -2,7 +2,7 @@
 
 Client proved fraudster, he created the paymant on freelancer.com and then my account was closed with $2520 wich was refused to client, the site was already on hosting and client is gone.
 
-## Insatation via composer:
+## Insatall via composer:
 
 * Download composer to project dir or install it globally
 * composer install
