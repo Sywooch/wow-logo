@@ -1,4 +1,4 @@
-# Sources from http://wow-logo.com
+# Sources from http://wow-logo.com - Yii2
 
 Client proved fraudster, he created the paymant on freelancer.com and then account was closed with $2520 payment, wich was refused to client, the site was already on hosting and client is gone.
 
@@ -21,7 +21,7 @@ So you can use it fo free now it's under GNU v.3 License.
 # License 
 
     Wow-logo - logo creation service.
-    Copyright (C) 2014  PolecatSoft team.
+    Copyright (C) 2014  PolecatSoft team (http://polecatsoft.com).
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
