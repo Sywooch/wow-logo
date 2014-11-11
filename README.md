@@ -21,7 +21,7 @@ So you can use it fo free now it's under GNU v.3 License.
 # License 
 
     Wow-logo - logo creation service.
-    Copyright (C) 2014  PolecatSoft team (http://polecatsoft.com).
+    Copyright (C) 2014  [PolecatSoft team](http://polecatsoft.com).
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
