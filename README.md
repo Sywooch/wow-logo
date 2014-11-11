@@ -9,7 +9,7 @@ Client proved fraudster, he had created the payment on freelancer.com and then a
 * composer global require "fxp/composer-asset-plugin:1.0.0-beta3"
 * composer update
 
-## Some instructions
+## Some instructions:
 
 * Access to admin part by admin/admin url
 
