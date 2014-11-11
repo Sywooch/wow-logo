@@ -1,6 +1,6 @@
 # Sources from http://wow-logo.com - Yii2
 
-Client proved fraudster, he had created the payment on freelancer.com and then account was closed with $2520 payment, which was refused to client, the site was already on hosting and client was gone.
+Client proved fraudster, he had created the payment on freelancer.com and then account was closed with $2520 payment, which was reversed to client, the site was already on hosting and client was gone.
 
 ## Install via composer:
 
@@ -11,7 +11,9 @@ Client proved fraudster, he had created the payment on freelancer.com and then a
 
 ## Some instructions:
 
-* Access to admin part by admin/admin url
+* Access admin dashboard by /admin url (only admin user can access it).
+* Login: admin
+* Password: admin
 
 ## Sources:
 
