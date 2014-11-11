@@ -1,6 +1,6 @@
-# Sourses from http://wow-logo.com
+# Sources from http://wow-logo.com
 
-Client proved fraudster, he created the paymant on freelancer.com and then my account was closed with $2520 wich was refused to client, the site was already on hosting and client is gone.
+Client proved fraudster, he created the paymant on freelancer.com and then account was closed with $2520 payment, wich was refused to client, the site was already on hosting and client is gone.
 
 ## Insatall via composer:
 
